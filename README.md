@@ -1,0 +1,2 @@
+# cool-chain
+tiny blockchain
