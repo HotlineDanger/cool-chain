@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from Block import Block
+
 def next_block(last_block):
     block_id = last_block.index + 1
     block_timestamp = date.datetime.now()

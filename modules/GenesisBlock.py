@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import datetime as date
+from Block import Block
 
 # We create a first genesis block in the chain.
 
